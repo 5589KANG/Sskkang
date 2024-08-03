@@ -1,0 +1,16 @@
+C:\Users\pc\source\repos\test_formsapp\bin\Debug\net8.0-windows\test_formsapp.exe
+C:\Users\pc\source\repos\test_formsapp\bin\Debug\net8.0-windows\test_formsapp.deps.json
+C:\Users\pc\source\repos\test_formsapp\bin\Debug\net8.0-windows\test_formsapp.runtimeconfig.json
+C:\Users\pc\source\repos\test_formsapp\bin\Debug\net8.0-windows\test_formsapp.dll
+C:\Users\pc\source\repos\test_formsapp\bin\Debug\net8.0-windows\test_formsapp.pdb
+C:\Users\pc\source\repos\test_formsapp\obj\Debug\net8.0-windows\test_formsapp.Form1.resources
+C:\Users\pc\source\repos\test_formsapp\obj\Debug\net8.0-windows\test_formsapp.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\test_formsapp\obj\Debug\net8.0-windows\test_formsapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\test_formsapp\obj\Debug\net8.0-windows\test_formsapp.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\test_formsapp\obj\Debug\net8.0-windows\test_formsapp.AssemblyInfo.cs
+C:\Users\pc\source\repos\test_formsapp\obj\Debug\net8.0-windows\test_formsapp.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\test_formsapp\obj\Debug\net8.0-windows\test_formsapp.dll
+C:\Users\pc\source\repos\test_formsapp\obj\Debug\net8.0-windows\refint\test_formsapp.dll
+C:\Users\pc\source\repos\test_formsapp\obj\Debug\net8.0-windows\test_formsapp.pdb
+C:\Users\pc\source\repos\test_formsapp\obj\Debug\net8.0-windows\test_formsapp.genruntimeconfig.cache
+C:\Users\pc\source\repos\test_formsapp\obj\Debug\net8.0-windows\ref\test_formsapp.dll
